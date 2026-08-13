@@ -653,6 +653,11 @@ Accelerate your Rust development with reusable libraries, and build a game devel
 ### [Jad Nohra's Learn Rust (interactive)](https://jadnohra.com/learn-rust/) *Free*
 
 "Learn Rust" takes experienced systems programmers through the theory behind Rust's ownership model instead of asking them to memorize rules. It builds a framework around memory layout, timing, and aliasing to show why the borrow checker works the way it does, covering everything from stack and heap mechanics to Rice's theorem and practical escape hatches, presented as an interactive graph rather than a linear book.
+### [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
+
+<img src="https://images.manning.com/book/5/89c37a8-73e8-4ac2-bbab-d9666a5db7a5/Cabanis-MEAP.jpg" width="120px"/>
+
+A practical introduction to building firmware that is fast, efficient, and far safer than traditional embedded software written in C or C++.
 
 **Resources**
 ====
