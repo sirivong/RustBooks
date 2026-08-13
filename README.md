@@ -650,6 +650,9 @@ Dive into the world of systems programming with Rust and create robust and secur
 
 Accelerate your Rust development with reusable libraries, and build a game development toolkit that helps you quickly create games using the Bevy Engine. Improve your code with testing, benchmarking, and optimization. Unlock Rust’s trait and generic metaprogramming systems to develop code that adapts to fit your needs. Customize libraries with feature flags, and customize language syntax with macros. Master concurrency with threads and asynchronous programming. Structure your programs with reusable state management, menus, user interface elements, and asset management. Quickly build games with reusable physics and collision detection. Make your games pop with animations, particles, and rendering tricks, including parallax layering.
 
+### [Jad Nohra's Learn Rust (interactive)](https://jadnohra.com/learn-rust/) *Free*
+
+"Learn Rust" takes experienced systems programmers through the theory behind Rust's ownership model instead of asking them to memorize rules. It builds a framework around memory layout, timing, and aliasing to show why the borrow checker works the way it does, covering everything from stack and heap mechanics to Rice's theorem and practical escape hatches, presented as an interactive graph rather than a linear book.
 ### [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
 
 <img src="https://images.manning.com/book/5/89c37a8-73e8-4ac2-bbab-d9666a5db7a5/Cabanis-MEAP.jpg" width="120px"/>
